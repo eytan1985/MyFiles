@@ -1,0 +1,29 @@
+Basic Commands
+
+$ git init 	 	// Initialize local git repository.
+
+$ git add <file> 	// Add File(s) to index. To add all files use the '.' as a "file name".
+
+$ git status		// Check status of working tree.
+
+$ git commit 		// Commit changes in index.
+
+$ git push 		// Push to remote repository.
+
+$ git pull		// Pull latest from remote repository.
+
+$ git clone 		// Clone repository into new directory.
+
+$ git rm --cached <file>	// If a file has added using 'git add' and we want to remove it.
+
+
+
+Installation
+
+$ sudo apt-get install git
+
+
+
+
+
+#### EYTAN JACQUES ####
