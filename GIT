@@ -71,7 +71,9 @@ We can also add a all folder to the .gitignore file by writing the folder path.
 
 Branches------------------------------------------------------------------------------------------------------------------
 
-$ git branch <name>		// Create a new branch.
+$ git branch <branch name>	// Create a new branch.
+
+$ git checkout <branch name>	// Change to the branch with the given name.
 
 
 --------------------------------------------------------------------------------------------------------------------------
