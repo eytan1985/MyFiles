@@ -73,8 +73,11 @@ Branches------------------------------------------------------------------------
 
 $ git branch <branch name>	// Create a new branch.
 
+$ git branch -av		// List all the existing branches.
+
 $ git checkout <branch name>	// Change to the branch with the given name.
 
+$ git merge <branch name>	// Merge current branch with the given branch name.
 
 --------------------------------------------------------------------------------------------------------------------------
 
