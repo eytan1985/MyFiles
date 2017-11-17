@@ -1,4 +1,4 @@
-Basic Commands
+Basic Commands------------------------------------------------------------------------------------------------------------
 
 $ git init 	 	// Initialize local git repository.
 
@@ -18,17 +18,50 @@ $ git clone 		// Clone repository into new directory.
 
 $ git rm --cached <file>	// If a file has added using 'git add' and we want to remove it.
 
+--------------------------------------------------------------------------------------------------------------------------
 
 
-Installation
+
+
+
+
+Installation--------------------------------------------------------------------------------------------------------------
 
 $ sudo apt-get install git
 
+--------------------------------------------------------------------------------------------------------------------------
 
 
-Global configuration
+
+
+
+
+
+
+Global configuration------------------------------------------------------------------------------------------------------
 
 // Example: change the git editor to vim.
 $ git --global core.editor "vim"		// Also $ export GIT_EDITOR=vim will do the trick.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+Gitignore file------------------------------------------------------------------------------------------------------------
+
+This is a file where we tell git which files we want him to ignore.
+This file need to be created manually.
+
+To ignore a file we write the name of the file within the .gitignore file.
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 #### EYTAN JACQUES ####
