@@ -59,7 +59,25 @@ This is a file where we tell git which files we want him to ignore.
 This file need to be created manually.
 
 To ignore a file we write the name of the file within the .gitignore file.
+We can also add a all folder to the .gitignore file by writing the folder path.
 --------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+Branches------------------------------------------------------------------------------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
