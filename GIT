@@ -24,6 +24,9 @@ $ sudo apt-get install git
 
 
 
+Global configuration
 
+// Example: change the git editor to vim.
+$ git --global core.editor "vim"		// Also $ export GIT_EDITOR=vim will do the trick.
 
 #### EYTAN JACQUES ####
