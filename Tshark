@@ -1,0 +1,6 @@
+###################################################
+## Pipe tcpdump file to tcptrace                 ##
+## The tcptrace takes his input from the 'stdin' ##
+##                                               ##
+## sudo tcpdump -w - | tcptrace -lr stdin | less ##
+###################################################
