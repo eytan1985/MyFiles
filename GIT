@@ -10,6 +10,8 @@ $ git commit 		// Commit changes in index.
 
 $ git commit -m 'commit msg..'	// Do a commit and add a message in the command line.
 
+$ git commit -a -m 'commit msg...'	// Add the unstage file and commit from the command line.
+
 $ git push 		// Push to remote repository.
 
 $ git pull		// Pull latest from remote repository.
